@@ -13,7 +13,7 @@ Plots the obtained coordinates on a map for visual representation.
 
 Determines the distance between the plotted points using geodesic distance calculations.
 ### Why:
-Spatial Analysis:
+#### Spatial Analysis:
 
 Enables spatial analysis and visualization, aiding in better understanding of geographical distribution.
 #### Logistics and Planning:
